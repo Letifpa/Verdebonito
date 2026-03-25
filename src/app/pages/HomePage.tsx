@@ -178,7 +178,7 @@ function HeroSection() {
         to="/catalogo"
         style={{
           display: 'inline-block',
-          backgroundColor: C.red, color: C.light,
+          backgroundColor: '#1E5FCC', color: C.light,
           ...F.bold, fontSize: '14px', letterSpacing: '0.15em',
           textTransform: 'uppercase', padding: '16px 44px',
           textDecoration: 'none', position: 'relative', zIndex: 2,
